@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "079939482f5551d24a360c32e5d9e0cd",
+    "revision": "3cab1f24662608e00b48b008516caa53",
     "url": "/README.md"
   },
   {
-    "revision": "ce32f2dc7b8296cfab3efcfae0c446f9",
+    "revision": "2e9ae1c1577d35862a39a1627fcc9a9a",
     "url": "/admin.html"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-vendors.48a8b690.css"
   },
   {
-    "revision": "cbc7f92f3bff055e1c03",
+    "revision": "b4946e4d6bfcba392e46",
     "url": "/css/contact.5d1e11df.css"
   },
   {
-    "revision": "a3e472a7b08ec930d15b",
+    "revision": "e11e29a0877ae00ab03c",
     "url": "/css/index.d6055569.css"
   },
   {
@@ -96,43 +96,43 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logo_light.0dc2c08c.svg"
   },
   {
-    "revision": "80038302e9aa92323f81c8ac8c414c3e",
+    "revision": "822f14a1c1998fc4a1c68db4e275c37d",
     "url": "/index.html"
   },
   {
-    "revision": "a52decce7555150c1af3",
-    "url": "/js/about.9a1e2836.js"
+    "revision": "420b2d65144a40f5780d",
+    "url": "/js/about.fbd31781.js"
   },
   {
-    "revision": "69eaacc048b16e24d2bc",
-    "url": "/js/admin.e821f9a3.js"
+    "revision": "a283b5893851a6e420dc",
+    "url": "/js/admin.e670352b.js"
   },
   {
     "revision": "90588a1b9af0d0bbe380",
     "url": "/js/chunk-vendors.23cead11.js"
   },
   {
-    "revision": "cbc7f92f3bff055e1c03",
-    "url": "/js/contact.95074eea.js"
+    "revision": "b4946e4d6bfcba392e46",
+    "url": "/js/contact.5f20907a.js"
   },
   {
-    "revision": "891f3244346d99cd92c3",
-    "url": "/js/contact~works.14f289e7.js"
+    "revision": "d5a597219927fe9caa7c",
+    "url": "/js/contact~works.3c143a53.js"
   },
   {
-    "revision": "a3e472a7b08ec930d15b",
-    "url": "/js/index.4ccf56be.js"
+    "revision": "e11e29a0877ae00ab03c",
+    "url": "/js/index.1ba41084.js"
   },
   {
-    "revision": "b050d6e9484943abcd1e",
-    "url": "/js/works.c2c69264.js"
+    "revision": "f1a585f307a69e27230c",
+    "url": "/js/works.f2904c9b.js"
   },
   {
     "revision": "4e86082d42b38ef3fbfda3b901957d03",
     "url": "/manifest.json"
   },
   {
-    "revision": "735ab4f94fbcd57074377afca324c813",
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   }
 ]);
