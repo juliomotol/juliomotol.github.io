@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cab1f24662608e00b48b008516caa53",
+    "revision": "bf3898d66f2528bae0382fc99cec821b",
     "url": "/README.md"
   },
   {
@@ -130,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4e86082d42b38ef3fbfda3b901957d03",
     "url": "/manifest.json"
+  },
+  {
+    "revision": "fd45a8af43d46263ad6d0b1f51d3af89",
+    "url": "/preview.jpg"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
