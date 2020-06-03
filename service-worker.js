@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d016ec481550b0b2e77fdcfdfbbba178.js"
+  "/precache-manifest.e06cc01b8afd209054fb7b41ca8aa41f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "juliomotol.github.io"});

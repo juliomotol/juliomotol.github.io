@@ -4,20 +4,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/README.md"
   },
   {
-    "revision": "326bbf4f5420a5d6056b6af30d0c54fe",
+    "revision": "642557651a03b1f7304286d3f6f10025",
     "url": "/admin.html"
   },
   {
-    "revision": "b969541ef878363ce2c8",
+    "revision": "01f2673a83269f894bfd",
     "url": "/css/chunk-vendors.fbb0c9ba.css"
   },
   {
-    "revision": "652f24ffcccc388721c0",
+    "revision": "b8948ffa242b451fb869",
     "url": "/css/contact.5d1e11df.css"
   },
   {
-    "revision": "58069bf24f49818a4383",
-    "url": "/css/index.12da7376.css"
+    "revision": "bae8ce681df4916da31f",
+    "url": "/css/index.dfad92f3.css"
   },
   {
     "revision": "13685372945d816a2b474fc082fd9aaa",
@@ -96,36 +96,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logo_light.0dc2c08c.svg"
   },
   {
-    "revision": "afc25545a64dadc6feb0923894edabfb",
+    "revision": "02bc10890ef55a4df696da70f316335b",
     "url": "/index.html"
   },
   {
-    "revision": "335415f4eba1d8cd5515",
-    "url": "/js/about.884cd3d9.js"
+    "revision": "4208083feb249896ee08",
+    "url": "/js/about.091d7af7.js"
   },
   {
-    "revision": "c187fad558c17658487c",
-    "url": "/js/admin.226340b3.js"
+    "revision": "e33884a07eb0cdeaa557",
+    "url": "/js/admin.31de168a.js"
   },
   {
-    "revision": "b969541ef878363ce2c8",
-    "url": "/js/chunk-vendors.9b6edbb2.js"
+    "revision": "01f2673a83269f894bfd",
+    "url": "/js/chunk-vendors.40bdcbbc.js"
   },
   {
-    "revision": "652f24ffcccc388721c0",
-    "url": "/js/contact.c69fbf18.js"
+    "revision": "b8948ffa242b451fb869",
+    "url": "/js/contact.27419065.js"
   },
   {
-    "revision": "bb8ecf484368c4ff6ae7",
-    "url": "/js/contact~works.9c44f9e9.js"
+    "revision": "d9341f4eee89e2382858",
+    "url": "/js/contact~works.80d7dc53.js"
   },
   {
-    "revision": "58069bf24f49818a4383",
-    "url": "/js/index.a67d990e.js"
+    "revision": "bae8ce681df4916da31f",
+    "url": "/js/index.a51e4b5b.js"
   },
   {
-    "revision": "1481aea795c176a99dd4",
-    "url": "/js/works.cbc7aa01.js"
+    "revision": "54d9767cc082c8290169",
+    "url": "/js/works.8ae137bc.js"
   },
   {
     "revision": "4e86082d42b38ef3fbfda3b901957d03",
