@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/README.md"
   },
   {
-    "revision": "1ed6ea3aa40d6d823df7",
+    "revision": "fe345f27ad82a9bb3275",
     "url": "/css/app.a08e077e.css"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-vendors.fbb0c9ba.css"
   },
   {
-    "revision": "cff5e34419759282be56",
+    "revision": "c2dd50ec939d38b69e2b",
     "url": "/css/contact.5d1e11df.css"
   },
   {
-    "revision": "df6f1b71763445a12353",
+    "revision": "96b4dee3404e1babdf02",
     "url": "/css/works.6f18a616.css"
   },
   {
@@ -96,28 +96,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logo_light.0dc2c08c.svg"
   },
   {
-    "revision": "d8a1f719258ef61db8e8ccb3e5f4a1ef",
+    "revision": "b1c47a994ce95602383d0ad34a467209",
     "url": "/index.html"
   },
   {
-    "revision": "d37688dd7962b1e050ac",
-    "url": "/js/about.724f66d6.js"
+    "revision": "ebe960f904449f852a33",
+    "url": "/js/about.7a62dc8c.js"
   },
   {
-    "revision": "1ed6ea3aa40d6d823df7",
-    "url": "/js/app.465ea217.js"
+    "revision": "fe345f27ad82a9bb3275",
+    "url": "/js/app.0b471a8c.js"
   },
   {
     "revision": "104770dc52ba220b4b5d",
     "url": "/js/chunk-vendors.a37adc28.js"
   },
   {
-    "revision": "cff5e34419759282be56",
-    "url": "/js/contact.436029ac.js"
+    "revision": "c2dd50ec939d38b69e2b",
+    "url": "/js/contact.defd5776.js"
   },
   {
-    "revision": "b4419967aa5d20afa0ca",
-    "url": "/js/works-articles.b2315906.js"
+    "revision": "f26765566ea4c290d693",
+    "url": "/js/works-articles.5e1651e2.js"
   },
   {
     "revision": "211ca494c8d507a55b7b",
@@ -132,8 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/works-articles2.40758b0a.js"
   },
   {
-    "revision": "df6f1b71763445a12353",
-    "url": "/js/works.86f17399.js"
+    "revision": "96b4dee3404e1babdf02",
+    "url": "/js/works.ae1ad168.js"
   },
   {
     "revision": "1b2c02283ed2d4ce39663bd7386aed26",
