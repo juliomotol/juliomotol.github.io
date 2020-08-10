@@ -17,13 +17,9 @@ importScripts(
   "/precache-manifest.01babbd16ac5198cea9d96c4c19be714.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "juliomotol.github.io"});
+workbox.core.setCacheNameDetails({prefix: "juliomotol"});
 
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
-});
+workbox.core.skipWaiting();
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
