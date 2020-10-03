@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5df4b1fd31da6321dcdab4c5eee57ef6.js"
+  "/precache-manifest.bcd7e6d4b6b7886a0f0d1482299df505.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "juliomotol"});
